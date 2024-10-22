@@ -42,7 +42,7 @@ namespace EMX
             Console.WriteLine("List of commands:");
             Console.WriteLine("help - Show this help message");
             Console.WriteLine("exit - Exit the program");
-            // Add more commands as needed
+            // Add more commands as needed (when i add more commands)
         }
 
         static void Exit()
